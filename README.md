@@ -1,0 +1,1 @@
+This is the whole player movement class containing functionality such as walking, running, jumping, dashing and reversing gravity. The Dash mechanic consists of two parts, the dash method and and enableCharacter move method. It is called in the update method. The dashCounter is also updated in the groundCheck method.
